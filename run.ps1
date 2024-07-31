@@ -1,7 +1,7 @@
 docker-compose up -d
 
 echo "Gitlab is starting ..."
-echo "You can access the site (http://127.0.0.1) after 5 minutes ."
+echo "You can access the site (http://127.0.0.1:30080) after 5 minutes ."
 
 
 # 更改 Gitlab Pages 的 nginx 代理服务为 127.0.0.1:8000
